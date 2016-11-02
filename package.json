@@ -1,0 +1,21 @@
+{
+  "name": "google-calendar-manager",
+  "version": "0.0.1",
+  "description": "API manager for the Google Calendar",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^14.1.0",
+    "google-auth-library": "^0.9.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "calendar",
+    "api"
+  ],
+  "author": "Jasper Duizendstra <jasper@duizendstra.com> (www.duizendstra.com)",
+  "license": "MIT"
+}
